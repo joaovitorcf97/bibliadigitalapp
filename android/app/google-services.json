@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235694974293",
+    "firebase_url": "https://bibliadigital-2ce42-default-rtdb.firebaseio.com",
+    "project_id": "bibliadigital-2ce42",
+    "storage_bucket": "bibliadigital-2ce42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235694974293:android:be89a4e9499ab99c32fbdc",
+        "android_client_info": {
+          "package_name": "dev.joaovitor.bibliadigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235694974293-4r735t6nq8ogobm85b3bahej0s91g2tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.joaovitor.bibliadigital",
+            "certificate_hash": "98b997d96e9ffc3716e7f70f62d8a7cd3f90f2f7"
+          }
+        },
+        {
+          "client_id": "235694974293-lo4r9snrq2j1m6oinfatp16eh921ske8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2JQQzWUSHiZMrGiTC4u31MFFrgnCkko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235694974293-lo4r9snrq2j1m6oinfatp16eh921ske8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
